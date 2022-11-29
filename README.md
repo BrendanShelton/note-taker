@@ -6,11 +6,11 @@ This application saves notes the user writes and displays them when they are sel
 
 ## Installation
 
-this application requires Express.js in order to run on a local host
+This application requires Express.js in order to run on a local host. Open the root folder in a terminal and enter "npm install"
 
 ## Usage
 
-To un this on a local host, open the folder in a terminal and enter "npm start". Go to http://localhost:3001/ on a web browser. On the home page, click on "Get Started". Enter the text and title of your note and click on the save button. The title will appear on the left side of the page where it can be clicked on in order to display the note again. Click on the "+" button to start a new note. 
+To run this on a local host, open the root folder in a terminal and enter "npm start". Go to http://localhost:3001/ on a web browser. On the home page, click on "Get Started". Enter the text and title of your note and click on the save button. The title will appear on the left side of the page where it can be clicked on in order to display the note again. Click on the "+" button to start a new note. 
 
 https://github.com/BrendanShelton/note-taker
 
