@@ -14,7 +14,13 @@ To un this on a local host, open the folder in a terminal and enter "npm start".
 
 https://github.com/BrendanShelton/note-taker
 
+https://pure-castle-31243.herokuapp.com/
+
 ![screenshot of application](screenshot.PNG)
+
+## Technologies Used
+
+HTML, CSS, Javascript, Node.js, Express
 
 ## Credits
 
