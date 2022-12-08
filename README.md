@@ -24,7 +24,7 @@ HTML, CSS, Javascript, Node.js, Express
 
 ## Credits
 
-N/A
+The HTML, CSS, and front-end Javascript of this application was provided as starter code for an assignment for the University of Richmond coding bootcamp.
 
 ## License
 
